@@ -244,7 +244,7 @@
         <div>FE, BE</div>
       </td>
       <td align="center">
-        <a href="https://github.com/hello1334">
+        <a href="https://github.com/jeongeonhwi">
             <img src="https://avatars.githubusercontent.com/u/139297106?v=4" width="100px;" alt="전건휘"/>
             <br />
             <sub><b>전건휘</b></sub>
